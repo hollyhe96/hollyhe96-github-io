@@ -1,8 +1,12 @@
 ---
 title: "Holy cow!"
+output: 
+  html_document:
+   toc: true
+   toc_float: true
 ---
 
-### I have a webpage!
+## I have a webpage!
 
 And I can put all kinds of stuff on it!
 
@@ -16,7 +20,7 @@ I like [Google](https://www.google.com).
 
 I can link directly to my [about page](about.html).
 
-### Add some pictures
+## Add some pictures
 
 <img src="images/balloon.jpg" style="width:50%">
 
